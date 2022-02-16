@@ -6,8 +6,9 @@
 
 <h3> HOW TO USE</h3>
 
-Run the cmd, type the command python main.py
+<li> Run the cmd, type the command python main.py</li> 
 
-Crédits: Jonathan Santos
+<h3> CRESDITS </h3>
+Jonathan Santos
 
 My discord: Thunderte#1057
