@@ -8,6 +8,8 @@
 
 <li> Run the cmd, type the command python main.py</li> 
 
+<img src="https://imgur.com/a/cGqahFV">
+
 <h3> CREDITS </h3>
 Jonathan Santos
 
