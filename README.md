@@ -8,7 +8,7 @@
 
 <li> Run the cmd, type the command python main.py</li> 
 
-<h3> CRESDITS </h3>
+<h3> CREDITS </h3>
 Jonathan Santos
 
 My discord: Thunderte#1057
